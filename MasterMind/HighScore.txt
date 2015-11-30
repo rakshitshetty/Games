@@ -1,0 +1,6 @@
+					ScoreBoard
+					----------
+
+                              name :rakshith        result :1
+
+                              name :naveen        result :1
